@@ -1,6 +1,6 @@
 This is a jimi Hendrix Tribute page.
 
-It makes up the first part of my coding portfoloio.
+It makes up the first part of my  portfolio.
 
 You can see the project live at the following URL:
 
